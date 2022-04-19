@@ -1,8 +1,9 @@
-package recipes;
+package recipes.persistance;
 
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.repository.query.Param;
+import recipes.businesslayer.Recipe;
 
 import java.util.List;
 

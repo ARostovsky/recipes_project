@@ -1,8 +1,9 @@
-package recipes;
+package recipes.businesslayer;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.lang.Nullable;
 import org.springframework.stereotype.Service;
+import recipes.persistance.RecipeRepository;
 
 import java.util.List;
 

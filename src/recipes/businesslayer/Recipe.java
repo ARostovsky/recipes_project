@@ -1,4 +1,4 @@
-package recipes;
+package recipes.businesslayer;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.AllArgsConstructor;
